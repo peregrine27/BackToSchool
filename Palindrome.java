@@ -1,4 +1,4 @@
-//import java.io.*;
+
 import java.util.*;
 public class Palindrome
 { 
@@ -26,7 +26,7 @@ public class Palindrome
 			   else
 			   System.out.println("OHHH....YOU ENTERED 999..!!!");
 			}while(n!=999);
-			System.out.println( Math.pow(-2,-3));
+			
 	}
 }
 				   
